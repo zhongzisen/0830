@@ -1,4 +1,5 @@
 export default{
   key: 1111,
-  name: 'zzs'
+  name: 'zz',
+  age: 25
 }
