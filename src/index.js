@@ -1,3 +1,4 @@
 export default{
-  key: 1111	
+  key: 1111,
+  name: 'zzs'
 }
